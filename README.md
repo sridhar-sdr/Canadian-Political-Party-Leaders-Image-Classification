@@ -8,3 +8,5 @@ The dataset contains 497 photos, which were scared from the web, with an equal d
 The possible classes for the classification model are Annamie Paul, Jagmeet Singh, Justin Trudeau, Erin O’Tool, and Yves-Francois Blanchet.
 The data is split into training and testing datasets containing 431 images and 66 images, respectfully.
 This is supervised learning, with the classes being labelled by the indexes in the following image.
+![image](https://user-images.githubusercontent.com/65787777/143034275-321cf739-9a8c-4648-985d-ba043fcd6cc2.png)
+
