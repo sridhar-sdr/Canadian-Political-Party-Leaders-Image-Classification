@@ -10,3 +10,4 @@ The data is split into training and testing datasets containing 431 images and 6
 This is supervised learning, with the classes being labelled by the indexes in the following image.
 ![image](https://user-images.githubusercontent.com/65787777/143034275-321cf739-9a8c-4648-985d-ba043fcd6cc2.png)
 
+Note"
